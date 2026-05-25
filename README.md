@@ -1,7 +1,10 @@
 # 💫 About Me:
 I am Shibani Mukherjee, a BCA student and Full-Stack Web Developer from India, specializing in MERN Stack development. I build modern, responsive, and scalable web applications with a strong focus on clean UI, performance, and user experience.
+
 I have hands-on experience with HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB, and I actively apply these skills in real-world projects. One of my key projects includes a Smart Hostel Management System built using the MERN stack, featuring authentication, role-based access, and full-stack CRUD functionality.
+
 I enjoy developing complete end-to-end solutions, working with APIs, authentication systems, and building efficient backend architectures. I continuously improve my skills by exploring advanced concepts in full-stack development and software engineering practices.
+
 My focus is to contribute to impactful development teams and deliver high-quality, production-ready applications. 🚀<br>
 
 
