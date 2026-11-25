@@ -1,24 +1,195 @@
-# 💫 About Me:
-I am Shibani Mukherjee, a BCA student and Full-Stack Web Developer from India, specializing in MERN Stack development. I build modern, responsive, and scalable web applications with a strong focus on clean UI, performance, and user experience.
+<div align="center">
 
-I have hands-on experience with HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB, and I actively apply these skills in real-world projects. One of my key projects includes a Smart Hostel Management System built using the MERN stack, featuring authentication, role-based access, and full-stack CRUD functionality.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:101B3D,70:312E81,100:06B6D4&text=SHIBANI%20MUKHERJEE&fontColor=EAFBFF&fontSize=42&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%20%26%20DATA%20ENTHUSIAST&descAlignY=59&descSize=13&animation=fadeIn" width="100%" alt="Shibani Mukherjee cyberpunk profile banner"/>
 
-I enjoy developing complete end-to-end solutions, working with APIs, authentication systems, and building efficient backend architectures. I continuously improve my skills by exploring advanced concepts in full-stack development and software engineering practices.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=850&color=43E8FF&center=true&vCenter=true&width=760&lines=Building+useful+things%2C+one+commit+at+a+time.;Full-Stack+Web+Development;Python+%7C+Data+Analytics+%7C+Machine+Learning;Curious+mind.+Builder's+ mindset.+Always+learning." alt="Animated developer tagline"/>
 
-My focus is to contribute to impactful development teams and deliver high-quality, production-ready applications. 🚀<br>
+<br/>
 
+<img src="assets/shibani-cyber-hologram.gif" width="340" alt="Animated cyan and violet holographic coding core"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shi_bani_188) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shibani-mukherjee-096274339?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shibanimukherjee815@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Shibani-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Shibani-09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shibani-09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://img.shields.io/badge/BUILD_MODE-ON-07111F?style=for-the-badge&labelColor=07111F&color=00D9F5"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK%20%2B%20AI-07111F?style=for-the-badge&labelColor=07111F&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=Shibani-09&style=for-the-badge&color=155E75&label=PROFILE+SCANS"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Shibani-09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `01 / WHO I AM`
+
+<img align="right" src="assets/shibani-cyber-terminal.svg" width="46%" alt="Animated terminal showing developer startup messages"/>
+
+Hey, I'm **Shibani Mukherjee** — a BCA student and developer from India interested in building thoughtful digital products.
+
+I work across **full-stack web development, Python, data analytics and applied machine learning**. I enjoy taking an idea from interface to backend, connecting APIs and databases, and turning data into useful outputs.
+
+- 🎓 BCA student at MAKAUT
+- 🧩 Building full-stack applications and data-driven projects
+- 🧠 Exploring AI, machine learning and predictive analytics
+- ⚡ Interested in clean interfaces, practical engineering and continuous learning
+- 🌱 Currently strengthening my development and data skills
+
+> **Build with purpose. Learn continuously. Ship thoughtfully.**
+
+<br clear="right"/>
+
+---
+
+## `02 / TECH STACK`
+
+### Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,mysql,tailwind,bootstrap" alt="Web development technologies"/>
+</p>
+
+### Python, Data & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase" alt="Developer tools"/>
+</p>
+
+---
+
+## `03 / SELECTED BUILDS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ AeroSense AI
+**Predictive Maintenance · Python · ML · Streamlit**
+
+A predictive-maintenance application exploring aircraft-engine degradation and Remaining Useful Life (RUL) estimation, with an interactive Streamlit experience.
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Streamlit`
+
+[↗ View repository](https://github.com/Shibani-09/AeroSense-AI)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Smart Hostel Management
+**MERN · Role-based application**
+
+A full-stack hostel management system designed around student, warden and admin workflows, including authentication, gate passes, notices and complaints.
+
+`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ BookNest
+**PHP · MySQL · Marketplace**
+
+A competitive-exam book marketplace concept for new and pre-owned JEE, NEET, GATE and NET preparation books.
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Shree AI
+**Virtual Human Assistant**
+
+An AI assistant concept combining conversational AI with an interactive web experience.
+
+`React` `Firebase` `Gemini API` `Three.js` `Framer Motion`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ NeoTask AI
+**React · Vite · Tailwind CSS**
+
+A modern task-management application focused on a clean, responsive productivity experience.
+
+`React` `Vite` `Tailwind CSS`
+
+[↗ View repository](https://github.com/Shibani-09/neotask-ai)
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Data & Analytics Projects
+**Python · Data processing · Visualization**
+
+Hands-on work exploring data preparation, analysis, visualization and predictive modelling through practical projects.
+
+`Python` `Pandas` `Matplotlib` `Streamlit`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04 / CURRENT INTERESTS`
+
+```text
+[01] Full-stack application architecture
+[02] Python-based data analysis
+[03] Machine learning & predictive modelling
+[04] AI-powered developer tools
+[05] Better UI, accessibility & user experience
+```
+
+---
+
+## `05 / GITHUB SIGNAL`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shibani-09&show_icons=true&hide_border=true&rank_icon=github&bg_color=070B18&title_color=43E8FF&icon_color=A78BFA&text_color=DCEBFF&ring_color=43E8FF" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shibani-09&layout=compact&hide_border=true&bg_color=070B18&title_color=43E8FF&text_color=DCEBFF" alt="Most used languages"/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=Shibani-09&hide_border=true&background=070B18&ring=43E8FF&fire=A78BFA&currStreakLabel=43E8FF&sideLabels=DCEBFF&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## `06 / CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shibani-09&bg_color=070B18&color=43E8FF&line=8B5CF6&point=E0FBFF&area=true&hide_border=true" width="100%" alt="GitHub activity graph"/>
+
+<img src="https://raw.githubusercontent.com/Shibani-09/Shibani-09/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+---
+
+## `07 / FIND ME IN THE NETWORK`
+
+<div align="center">
+
+<a href="https://github.com/Shibani-09"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=43E8FF" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/shibani-mukherjee-096274339/"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=43E8FF" alt="LinkedIn"/></a>
+<a href="https://instagram.com/shi_bani_188"><img src="https://img.shields.io/badge/Instagram-0B1020?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram"/></a>
+<a href="mailto:shibanimukherjee815@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=43E8FF" alt="Email"/></a>
+
+<br/><br/>
+
+**`ENDLESS CURIOSITY // CONSTANT ITERATION // REAL-WORLD IMPACT`**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,45:312E81,100:050816" width="100%" alt="Cyberpunk footer"/>
+
+</div>
