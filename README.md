@@ -174,7 +174,7 @@ A modern task-management application designed with a clean interface and respons
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shibani-09&show_icons=true&hide_border=true&bg_color=080B20&title_color=55DFFF&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shibani-09&layout=compact&hide_border=true&bg_color=080B20&title_color=55DFFF&text_color=E5E7EB" alt="Most used languages"/>
+
 
 <br/>
 
