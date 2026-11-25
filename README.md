@@ -1,32 +1,26 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,35:1A0738,65:4C1D95,100:0891B2&text=SHIBANI%20MUKHERJEE&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%7C%20AI%20%26%20DATA&descAlignY=59&descSize=14&animation=fadeIn" width="100%" alt="Shibani Mukherjee banner"/>
+![Shibani Mukherjee](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B20,35:312E81,70:075985,100:0E7490&text=SHIBANI%20MUKHERJEE&fontColor=FFFFFF&fontSize=44&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20MERN%20%7C%20PYTHON%20%7C%20AI&descAlignY=59&descSize=14&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+MERN+Stack;Building+modern+web+applications.;Exploring+Python%2C+AI+%26+Data+Analytics.;Turning+ideas+into+real-world+solutions." alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=55DFFF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer+%7C+MERN+Stack;Building+modern+web+applications.;Exploring+Python%2C+AI+%26+Data+Analytics.;Turning+ideas+into+real-world+solutions." alt="Typing introduction"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/MERN-STACK-170B2D?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/PYTHON- DEVELOPER-170B2D?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/AI-EXPLORER-170B2D?style=for-the-badge&logo=openai&logoColor=C084FC"/>
-
-<br/><br/>
-
 <a href="https://github.com/Shibani-09">
-<img src="https://img.shields.io/badge/GitHub-Profile-160D27?style=for-the-badge&logo=github&logoColor=C084FC"/>
-</a>
-<a href="https://www.linkedin.com/in/shibani-mukherjee-096274339/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-160D27?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/GitHub-Shibani--09-10172A?style=for-the-badge&logo=github&logoColor=55DFFF" alt="GitHub"/>
 </a>
 <a href="mailto:shibanimukherjee815@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-160D27?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-Contact-10172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/shibani-mukherjee-096274339/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-10172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 
 </div>
 
 ---
 
-<h2 align="center">✦ 01 — ABOUT ME ✦</h2>
+## 01 // ABOUT ME
 
 Hello! I'm **Shibani Mukherjee**, a BCA student at MAKAUT and a Full-Stack Developer from India.
 
@@ -42,81 +36,63 @@ I believe in learning by building and applying technology to solve real-world pr
 - 🤖 Artificial Intelligence & Machine Learning
 - 🚀 Building practical projects and exploring new technologies
 
-<div align="center">
-
-**THINK CREATIVELY. BUILD INTELLIGENTLY. KEEP EVOLVING.**
-
-</div>
+> **My mindset:** Think creatively. Build intelligently. Keep evolving.
 
 ---
 
-<h2 align="center">✦ 02 — TECHNICAL ARSENAL ✦</h2>
+## 02 // TECHNICAL ARSENAL
 
-<h3 align="center">FULL-STACK DEVELOPMENT · MERN</h3>
+**FULL-STACK DEVELOPMENT — MERN**
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" alt="MERN stack"/>
-</div>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN stack" />
 
-<p align="center">MongoDB · Express.js · React.js · Node.js</p>
+`MongoDB` · `Express.js` · `React.js` · `Node.js`
 
-<h3 align="center">FRONTEND DEVELOPMENT</h3>
+**FRONTEND DEVELOPMENT**
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark" alt="Frontend skills"/>
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" alt="Frontend technologies" />
 
-<p align="center">HTML5 · CSS3 · JavaScript · Tailwind CSS · Bootstrap</p>
+`HTML5` · `CSS3` · `JavaScript` · `Tailwind CSS` · `Bootstrap`
 
-<h3 align="center">BACKEND & DATABASE</h3>
+**BACKEND & DATABASE**
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,firebase&theme=dark" alt="Backend skills"/>
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,firebase" alt="Backend technologies" />
 
-<p align="center">REST APIs · JWT Authentication · PHP · MySQL · MongoDB · Firebase</p>
+`REST APIs` · `JWT Authentication` · `PHP` · `MySQL` · `MongoDB` · `Firebase`
 
-<h3 align="center">PYTHON · DATA ANALYTICS · MACHINE LEARNING</h3>
+**PYTHON, DATA ANALYTICS & MACHINE LEARNING**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 
-<br/><br/>
+**TOOLS & WORKFLOW**
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-160D27?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/XGBoost-160D27?style=for-the-badge&logoColor=55DFFF"/>
-<img src="https://img.shields.io/badge/Streamlit-160D27?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
-
-</div>
-
-<h3 align="center">TOOLS & WORKFLOW</h3>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="Development tools"/>
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Development tools"/>
 
 ---
 
-<h2 align="center">✦ 03 — FEATURED PROJECTS ✦</h2>
+## 03 // FEATURED PROJECTS
 
-### <span style="color:#C084FC">01.</span> SMART HOSTEL MANAGEMENT SYSTEM
+### 01. SMART HOSTEL MANAGEMENT SYSTEM
 
-**FULL-STACK APPLICATION · MERN STACK**
+<sub>FULL-STACK WEB APPLICATION · MERN STACK</sub>
 
 A hostel management platform designed to digitize hostel operations through dedicated Admin, Warden and Student dashboards.
 
-**Key Features**
+**Core Features**
 - Role-based authentication and authorization
 - Admin, Student and Warden dashboards
 - Digital Gate Pass management
-- Notice management system
+- Notice management
 - Student complaint management
-- REST API integration and database operations
+- REST API and database integration
 
-**Technology Stack**
+**Tech Stack**
 
 `MongoDB` `Express.js` `React.js` `Node.js` `JWT` `Tailwind CSS`
 
@@ -124,32 +100,32 @@ A hostel management platform designed to digitize hostel operations through dedi
 
 ### 02. AEROSENSE AI
 
-**PREDICTIVE MAINTENANCE · MACHINE LEARNING**
+<sub>ARTIFICIAL INTELLIGENCE · PREDICTIVE MAINTENANCE</sub>
 
 A machine-learning project focused on aircraft engine degradation and Remaining Useful Life (RUL) estimation using NASA C-MAPSS data.
 
-**Key Highlights**
+**Core Features**
 - Predictive maintenance modelling
 - Data processing and feature engineering
 - Machine learning model development
-- Interactive Streamlit application
+- Interactive Streamlit interface
 - Prediction results and data visualization
 
-**Technology Stack**
+**Tech Stack**
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Streamlit`
 
-[↗ Explore AeroSense AI on GitHub](https://github.com/Shibani-09/AeroSense-AI)
+[↗ Explore AeroSense AI](https://github.com/Shibani-09/AeroSense-AI)
 
 ---
 
 ### 03. BOOKNEST
 
-**PHP & MYSQL · BOOK MARKETPLACE**
+<sub>PHP & MYSQL · BOOK MARKETPLACE</sub>
 
 A competitive-exam book marketplace concept for discovering new and pre-owned preparation books for JEE, NEET, GATE and NET examinations.
 
-**Technology Stack**
+**Tech Stack**
 
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
@@ -157,11 +133,11 @@ A competitive-exam book marketplace concept for discovering new and pre-owned pr
 
 ### 04. SHREE AI
 
-**VIRTUAL HUMAN ASSISTANT · AI**
+<sub>AI ASSISTANT · INTERACTIVE WEB EXPERIENCE</sub>
 
-An AI-powered virtual assistant concept combining conversational AI capabilities with an interactive web interface.
+A virtual human assistant concept combining conversational AI capabilities with an interactive web interface.
 
-**Technology Stack**
+**Tech Stack**
 
 `React` `Firebase Authentication` `Gemini API` `Three.js` `Framer Motion`
 
@@ -169,81 +145,78 @@ An AI-powered virtual assistant concept combining conversational AI capabilities
 
 ### 05. NEOTASK AI
 
-**PRODUCTIVITY · TASK MANAGEMENT**
+<sub>PRODUCTIVITY · TASK MANAGEMENT</sub>
 
 A modern task-management application designed with a clean interface and responsive user experience.
 
-**Technology Stack**
+**Tech Stack**
 
 `React.js` `Vite` `Tailwind CSS`
 
-[↗ Explore NeoTask AI on GitHub](https://github.com/Shibani-09/neotask-ai)
+[↗ Explore NeoTask AI](https://github.com/Shibani-09/neotask-ai)
 
 ---
 
-<h2 align="center">✦ 04 — AREAS OF INTEREST ✦</h2>
+## 04 // WHAT I'M INTERESTED IN
+
+- Full-Stack Software Engineering
+- MERN Stack Application Development
+- Artificial Intelligence & Generative AI
+- Data Analytics & Visualization
+- Machine Learning & Predictive Modelling
+- Creative UI/UX and Interactive Web Experiences
+
+---
+
+## 05 // GITHUB STATISTICS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FULL--STACK%20ENGINEERING-1A0738?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-1A0738?style=for-the-badge&logo=openai&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-1A0738?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
-<img src="https://img.shields.io/badge/DATA%20ANALYTICS-1A0738?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-1A0738?style=for-the-badge&logoColor=55DFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shibani-09&show_icons=true&hide_border=true&bg_color=080B20&title_color=55DFFF&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shibani-09&layout=compact&hide_border=true&bg_color=080B20&title_color=55DFFF&text_color=E5E7EB" alt="Most used languages"/>
+
+<br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=Shibani-09&hide_border=true&background=080B20&ring=55DFFF&fire=A78BFA&currStreakLabel=55DFFF&sideLabels=E5E7EB&dates=9299B5" alt="GitHub streak"/>
 
 </div>
 
 ---
 
-<h2 align="center">✦ 05 — GITHUB STATISTICS ✦</h2>
+## 06 // CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shibani-09&show_icons=true&hide_border=true&bg_color=0D0618&title_color=C084FC&icon_color=22D3EE&text_color=F3E8FF" alt="GitHub statistics"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shibani-09&bg_color=080B20&color=55DFFF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shibani-09&layout=compact&hide_border=true&bg_color=0D0618&title_color=C084FC&text_color=F3E8FF" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=Shibani-09&hide_border=true&background=0D0618&ring=C084FC&fire=22D3EE&currStreakLabel=C084FC&sideLabels=F3E8FF&dates=A78BFA" alt="GitHub contribution streak"/>
+<img src="https://raw.githubusercontent.com/Shibani-09/Shibani-09/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
 
 </div>
 
 ---
 
-<h2 align="center">✦ 06 — CONTRIBUTION ACTIVITY ✦</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shibani-09&bg_color=0D0618&color=C084FC&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
-
-<img src="https://raw.githubusercontent.com/Shibani-09/Shibani-09/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
-<h2 align="center">✦ 07 — CONNECT WITH ME ✦</h2>
+## 07 // LET'S CONNECT
 
 <div align="center">
 
 <a href="https://github.com/Shibani-09">
-<img src="https://img.shields.io/badge/GitHub-Profile-160D27?style=for-the-badge&logo=github&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-10172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/shibani-mukherjee-096274339/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-160D27?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-10172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 <a href="https://instagram.com/shi_bani_188">
-<img src="https://img.shields.io/badge/Instagram-Follow-160D27?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-10172A?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
 <a href="mailto:shibanimukherjee815@gmail.com">
-<img src="https://img.shields.io/badge/Email-Say_Hello-160D27?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-Say_Hello-10172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 <br/><br/>
 
 **BUILDING TODAY. INNOVATING TOMORROW.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0891B2,45:4C1D95,100:050505" width="100%" alt="Footer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0E7490,45:312E81,100:080B20" width="100%" alt="Footer banner"/>
 
 </div>
