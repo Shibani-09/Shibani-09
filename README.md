@@ -1,8 +1,8 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B20,35:312E81,70:075985,100:0E7490&text=SHIBANI%20MUKHERJEE&fontColor=FFFFFF&fontSize=43&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%7C%20PYTHON%20%7C%20AI%20%26%20DATA&descAlignY=61&descSize=13&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080B20,30:312E81,65:075985,100:0E7490&text=SHIBANI%20MUKHERJEE&fontColor=FFFFFF&fontSize=44&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%7C%20PYTHON%20%7C%20AI%20%26%20DATA&descAlignY=61&descSize=13&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=55DFFF&center=true&vCenter=true&width=650&lines=Turning+ideas+into+digital+experiences.;Building+with+MERN+Stack+%26+Python.;Exploring+AI%2C+Machine+Learning+%26+Data.;Learning.+Building.+Evolving." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=55DFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+MERN+Stack;Building+modern+web+applications.;Exploring+Python%2C+AI+%26+Data+Analytics.;Turning+ideas+into+real-world+solutions." />
 
 <br/>
 
@@ -10,40 +10,54 @@
 <img src="https://img.shields.io/badge/GitHub-Shibani--09-10172A?style=for-the-badge&logo=github&logoColor=55DFFF"/>
 </a>
 <a href="mailto:shibanimukherjee815@gmail.com">
-<img src="https://img.shields.io/badge/Email-Connect-10172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/Email-Contact-10172A?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
 
 ---
 
-## `01. ABOUT ME`
+## 01. ABOUT ME
 
-Hey! I'm **Shibani Mukherjee**, a BCA student at MAKAUT and a developer from India.
+Hello! I'm **Shibani Mukherjee**, a BCA student at MAKAUT and a Full-Stack Developer from India.
 
-I enjoy building modern web applications, exploring artificial intelligence and transforming data into meaningful insights.
+I enjoy developing complete web applications, designing responsive user interfaces, building backend systems and exploring data-driven technologies.
 
-My interests span across full-stack development, Python programming, data analytics and machine learning. I love experimenting with technologies, solving practical problems and turning ideas into functional products.
+My primary development experience is in the **MERN Stack (MongoDB, Express.js, React.js and Node.js)**. Alongside web development, I work with Python and explore Data Analytics, Artificial Intelligence and Machine Learning.
+
+I believe in learning by building and applying technology to solve real-world problems.
 
 - 🎓 BCA Student — MAKAUT
-- 💻 Full-Stack Web Development
-- 🐍 Python & Data Analytics
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🚀 Building real-world projects and learning continuously
+- 💻 Full-Stack Web Development — MERN Stack
+- 🐍 Python Programming & Data Analytics
+- 🤖 Artificial Intelligence & Machine Learning
+- 🚀 Building practical projects and exploring new technologies
 
-**My philosophy:** Learn deeply. Build creatively. Improve constantly.
+**My mindset:** Think creatively. Build intelligently. Keep evolving.
 
-## `02. TECHNICAL ARSENAL`
+---
 
-**Frontend Development**
+## 02. TECHNICAL SKILLS
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+### Full-Stack Development — MERN Stack
 
-**Backend & Database**
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+
+MongoDB · Express.js · React.js · Node.js
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap" />
+
+HTML5 · CSS3 · JavaScript · Tailwind CSS · Bootstrap
+
+### Backend & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,firebase" />
 
-**Python, Data & Machine Learning**
+REST APIs · JWT Authentication · PHP · MySQL · MongoDB
+
+### Python, Data Analytics & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=python" />
 
@@ -53,100 +67,105 @@ My interests span across full-stack development, Python programming, data analyt
 <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-**Developer Tools**
+### Tools & Development Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,firebase" />
 
-## `03. FEATURED PROJECTS`
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 03. FEATURED PROJECTS
 
-### ◈ AeroSense AI
+### 01 — SMART HOSTEL MANAGEMENT SYSTEM
 
-**Predictive Maintenance & ML**
+**Full-Stack MERN Application**
 
-An aircraft engine predictive-maintenance project focused on Remaining Useful Life estimation using machine learning and an interactive Streamlit application.
+A comprehensive hostel management platform designed to digitize hostel operations through dedicated Admin, Warden and Student dashboards.
 
-`Python` `Pandas` `Scikit-learn` `XGBoost`
+**Key Features**
+- Role-based authentication and authorization
+- Admin, Student and Warden dashboards
+- Digital Gate Pass management
+- Notice management system
+- Student complaint management
+- REST API integration and database operations
 
-[Explore Repository ↗](https://github.com/Shibani-09/AeroSense-AI)
+**Technology Stack**
 
-</td>
-<td width="50%" valign="top">
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT` `Tailwind CSS`
 
-### ◈ Smart Hostel Management
+---
 
-**MERN Stack Application**
+### 02 — AEROSENSE AI
 
-A full-stack hostel management system with student, admin and warden roles, authentication, gate passes, notices and complaint management.
+**Predictive Maintenance & Machine Learning**
 
-`React` `Node.js` `Express` `MongoDB`
+An AI-powered predictive-maintenance project focused on aircraft engine degradation and Remaining Useful Life (RUL) estimation using machine learning.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Key Highlights**
+- Predictive maintenance using NASA C-MAPSS data
+- Data processing and feature engineering
+- Machine learning model development
+- Interactive Streamlit application
+- Prediction results and data visualization
 
-### ◈ NeoTask AI
+**Technology Stack**
 
-**Modern Productivity Application**
+`Python` `Pandas` `NumPy` `Scikit-learn` `XGBoost` `Streamlit`
 
-A modern task-management application built with React and Vite, focusing on a responsive and clean user experience.
+[↗ View GitHub Repository](https://github.com/Shibani-09/AeroSense-AI)
 
-`React` `Vite` `Tailwind CSS`
+---
 
-[Explore Repository ↗](https://github.com/Shibani-09/neotask-ai)
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ BookNest
+### 03 — BOOKNEST
 
 **PHP & MySQL Marketplace**
 
-A competitive-exam book marketplace concept for new and pre-owned JEE, NEET, GATE and NET books.
+A competitive-exam book marketplace concept for discovering and purchasing new and pre-owned preparation books for JEE, NEET, GATE and NET examinations.
+
+**Technology Stack**
 
 `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### ◈ Shree AI
+### 04 — SHREE AI
 
 **Virtual Human Assistant**
 
-An AI assistant project combining conversational AI with an interactive web experience.
+An AI-powered virtual assistant concept combining conversational AI capabilities with an interactive web interface.
 
-`React` `Firebase` `Gemini API` `Three.js`
+**Technology Stack**
 
-</td>
-<td width="50%" valign="top">
+`React` `Firebase Authentication` `Gemini API` `Three.js` `Framer Motion`
 
-### ◈ Data Analytics & ML
+---
 
-**Data-driven Projects**
+### 05 — NEOTASK AI
 
-Exploring data processing, visualization, analytics and predictive modelling through hands-on Python projects.
+**Modern Productivity Application**
 
-`Python` `Pandas` `Matplotlib` `Streamlit`
+A modern task-management application designed with a clean interface and responsive user experience.
 
-</td>
-</tr>
-</table>
+**Technology Stack**
 
-## `04. CURRENT INTERESTS`
+`React.js` `Vite` `Tailwind CSS`
 
-- Full-stack application architecture
-- Artificial Intelligence and Generative AI
-- Machine Learning and Predictive Analytics
-- Data visualization and analytics
-- Creative UI/UX and interactive web experiences
+[↗ View GitHub Repository](https://github.com/Shibani-09/neotask-ai)
 
-## `05. GITHUB STATISTICS`
+---
+
+## 04. AREAS OF INTEREST
+
+- Full-Stack Software Engineering
+- MERN Stack Application Development
+- Artificial Intelligence & Generative AI
+- Data Analytics & Visualization
+- Machine Learning & Predictive Modelling
+- Creative UI/UX and Interactive Web Experiences
+
+---
+
+## 05. GITHUB STATISTICS
 
 <div align="center">
 
@@ -158,17 +177,21 @@ Exploring data processing, visualization, analytics and predictive modelling thr
 
 </div>
 
-## `06. CONTRIBUTION ACTIVITY`
+---
+
+## 06. CONTRIBUTION ACTIVITY
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shibani-09&bg_color=080B20&color=55DFFF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/Shibani-09/Shibani-09/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/Shibani-09/Shibani-09/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution animation"/>
 
 </div>
 
-## `07. LET'S CONNECT`
+---
+
+## 07. CONNECT WITH ME
 
 <div align="center">
 
